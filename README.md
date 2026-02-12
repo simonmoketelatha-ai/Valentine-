@@ -103,7 +103,7 @@ canvas {
 <!-- PASSWORD SCREEN -->
 <div id="passwordScreen">
     <h2>Enter Our Special Password ❤️</h2>
-    <input type="password" id="passwordInput" placeholder="Enter password">
+    <input type="password" id="passwordInput" placeholder="Always">
     <button onclick="checkPassword()">Enter</button>
 </div>
 
